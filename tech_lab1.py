@@ -24,5 +24,6 @@ print("\n\nfile2:")
 for element in lines2:
     if not element in lines1:
         print(element, end="")
+        
 file1.close()
 file2.close()
