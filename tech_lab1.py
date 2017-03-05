@@ -1,8 +1,8 @@
 #tech_lab1
 
 
-file1 = open('C:\\Users\\DELL\\Documents\\Visual Studio 2015\\Projects\\tech_lab1\\file1.txt','r')
-file2 = open('C:\\Users\\DELL\\Documents\Visual Studio 2015\\Projects\\tech_lab1\\file2.txt','r')
+file1 = open('','r')
+file2 = open('','r')
 
 
 lines1 = []
